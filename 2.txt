@@ -1,0 +1,4 @@
+el bucle interno (j) tiene una instrucción break que termina la ejecución del bucle después de imprimir "Sequence" una vez. 
+Esto significa que el bucle interno se ejecuta solo una vez en cada iteración del bucle externo (i).
+
+O(n)

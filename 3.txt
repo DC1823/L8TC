@@ -1,0 +1,12 @@
+Bucle externo (i):
+Se ejecuta desde 1 hasta n/3
+n/3.
+Contribución: 
+O(n)
+
+Bucle interno (j):
+Se ejecuta desde 1 hasta 
+n con incrementos de 4 en cada iteración.
+Contribución: O(n)
+
+O(n^2)

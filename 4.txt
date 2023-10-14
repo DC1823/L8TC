@@ -1,0 +1,17 @@
+Mejor Caso:
+En el mejor caso, el elemento que estamos buscando está en la primera posición del array.
+El algoritmo solo necesita una comparación para encontrar la coincidencia.
+Complejidad de tiempo: 
+O(1).
+
+Caso Promedio:
+En el caso promedio, no hacemos ninguna suposición específica sobre la ubicación del elemento en el array.
+En promedio, tendríamos que revisar la mitad de los elementos en la lista para encontrar el elemento deseado.
+Complejidad de tiempo: 
+O(n/2), que se aproxima a O(n) en términos asintóticos.
+
+Peor Caso:
+En el peor caso, el elemento que estamos buscando está en la última posición del array o no está presente en absoluto.
+En este caso, el algoritmo tendría que recorrer todos los elementos en la lista.
+Complejidad de tiempo: 
+O(n).

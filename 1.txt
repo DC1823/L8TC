@@ -1,0 +1,15 @@
+Bucle externo (i):
+
+Se ejecuta n/2 veces hasta n.
+Contribución: O(n).
+Bucle del medio (j):
+
+Se ejecuta desde 1 hasta n - n/2.
+Contribución: O(n).
+Bucle interno (k):
+
+Se ejecuta hasta que k <= n, y en cada iteración se duplica k.
+La Complejidad es logarítmica en función de n.
+Contribución: O(log n)
+
+O(n)×O(n)×O(logn)=O(n^2*logn)
